@@ -15,15 +15,15 @@ Yeah. I'm over them and so is everyone else. You can clear your cache and it is 
 
 3. Click the triple dot menu in Chrome. then hover to "More Tools", then click "Extensions" -- See the image below if you need more guidance.
 
-![alt text](https://imgur.com/a/rBA6Q "Google Menu Guidance")
+![alt text](https://raw.github.com/nickdeckerdevs/google-calendar-redirect/support/open-extensions-in-chrome.png "Open Extension in Chrome")
 
 4. Click the box to enable "Developer Mode" (we have to do this because I haven't packaged this extension for release) and then click "Load Unpacked Extension..." -- Again I have a little screenshot below to help if you need it.
 
-![alt text](https://imgur.com/1uT1iPb "Extension Install Guidance")
+![alt text](https://raw.github.com/nickdeckerdevs/google-calendar-redirect/support/adding-developer-mode-and-extension.png "Turn On Developer Mode and Upload Extension")
 
 5. Navigate to the folder/directory where you unzipped the extension, and click select. See the image below. Sorry PC players will have a somewhat different experience with this. Below is what the commoner on a Mac will see.
 
-![alt text](https://imgur.com/a/Kp96c "Selecting The Extension Folder")
+![alt text](https://raw.github.com/nickdeckerdevs/google-calendar-redirect/support/select-extension-folder.png "Selecting The Extension Folder")
 
 6. Smile when you don't have to click on these links anymore!
 
