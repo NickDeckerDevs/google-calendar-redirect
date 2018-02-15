@@ -10,6 +10,6 @@ function getParameterByName(name, url) {
     return decodeURIComponent(results[2].replace(/\+/g, " "));
 }
 
-// var redirectTo = getParameterByName('q');
+var redirectTo = getParameterByName('q');
 console.log('now redirecting to url: ' + redirectTo)
 window.location.href = redirectTo;
